@@ -13,7 +13,7 @@ public class Questions {
             "7. What is an object? \n(a)Representation of an entity in the real world that can be distinctly identified\n(b)A static method can be called without creating an instance of the class\n(c)Instance variable/instance mthod\n(d)A template, blueprint or contract that defines what an object's data fields and methods will be.\n",
             "8. What is an array? \n(a)Numbers of items ArrayList can store without increasing its size\n(b)Number used as an index to pinpoint a specfic element within an array\n(c)Object that can store a group of values, all of the same type\n(d)Method of locating a specific item in a larger collection of data\n",
             "9. You use this statement to throw an exception manually. \n(a)Throw\n(b)call stack\n(c)try block\n(d)thrown\n",
-            "10. Which is the smallest ocean in the World? \n(a)Indian\n(b)Pacific\n(c)Arctic\n(d)Atlantic\n",
+            "10. A specific instance of a class is created using the _____ operator.? \n(a)Comparision\n(b)Addition\n(c)New\n(d)Resources\n",
           
         };
         
